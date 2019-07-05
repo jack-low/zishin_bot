@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-TOKEN = '発行トークン'
+TOKEN = 'NTkwNDc2NjgzMDAyMzgwMzE2.XQjukw.rvpnacQAQCchU37PT7TR7idJXKs'
